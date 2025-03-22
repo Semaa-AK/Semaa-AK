@@ -1,6 +1,6 @@
 
 
---><h1 align="center">Hi 👋, I'm Sema</h1>
+<h1 align="center">Hi 👋, I'm Sema</h1>
 
 
 - 🌱 I’m currently learning **React,js**
